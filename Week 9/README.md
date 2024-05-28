@@ -27,6 +27,6 @@ To use the application, follow these steps:
 Local Weighted Regression is useful for capturing non-linear relationships in data and is particularly effective when dealing with noisy data or when the underlying relationship between variables is complex. However, selecting an appropriate tau value is crucial, as it directly impacts the smoothness of the fitted curve and the model's performance.
 
 ## Links:
-- [Streamlit App](https://infosquad9.streamlit.app/)
-- [Medium Article](https://medium.com/@pravinelango66/locally-weighted-regression-algorithm-51967dd21ccc)
+- [Streamlit App](https://teamflasx-localweightedregression.streamlit.app/)
+- [Medium Article](https://medium.com/@suryanehru0401/title-exploring-locally-weighted-regression-for-non-linear-data-756548e98c20)
 

@@ -41,6 +41,6 @@ The Iris dataset is used for this classification task. It contains measurements 
 - Features: [5.0, 3.4, 1.5, 0.2], True Label: Setosa, Predicted Label: Versicolour
 
 ## Links:
-- [Streamlit App](https://infosquad8.streamlit.app/)
-- [Medium Article](https://medium.com/@pravinelango66/k-nearest-neighbour-algorithm-dbce89f4d79a)
+- [Streamlit App](https://teamflashx-k-means.streamlit.app/)
+- [Medium Article](https://medium.com/@suryanehru0401/title-unraveling-iris-species-classification-with-k-nearest-neighbors-algorithm-c823a9feee68)
 
