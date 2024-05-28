@@ -1,6 +1,8 @@
 Candidate Elimination Algorithm App:
 
-This is a Streamlit web application that implements the Candidate Elimination algorithm. The Candidate Elimination algorithm is a machine learning algorithm used for concept learning in the presence of noise or errors in data. It tries to find the most specific hypothesis that fits all positive training examples and the most general hypothesis that fits all negative training examples.
+This is a Streamlit web application that implements the Candidate Elimination algorithm. 
+The Candidate Elimination algorithm is a machine learning algorithm used for concept learning in the presence of noise or errors in data. 
+It tries to find the most specific hypothesis that fits all positive training examples and the most general hypothesis that fits all negative training examples.
 
 Usage:
 
@@ -18,4 +20,7 @@ README.md: Documentation providing information about the application and instruc
 
 About the Candidate Elimination Algorithm:
 
-The Candidate Elimination algorithm is a concept learning algorithm used for machine learning tasks. It iteratively refines the hypotheses space by eliminating hypotheses that are inconsistent with the training data. It maintains two sets of hypotheses: the specific hypotheses (specific_h) and the general hypotheses (general_h). The specific hypotheses represent the most specific concept consistent with the training data, while the general hypotheses represent the most general concept consistent with the training data.
+The Candidate Elimination algorithm is a concept learning algorithm used for machine learning tasks. 
+It iteratively refines the hypotheses space by eliminating hypotheses that are inconsistent with the training data. 
+It maintains two sets of hypotheses: the specific hypotheses (specific_h) and the general hypotheses (general_h). 
+The specific hypotheses represent the most specific concept consistent with the training data, while the general hypotheses represent the most general concept consistent with the training data.
