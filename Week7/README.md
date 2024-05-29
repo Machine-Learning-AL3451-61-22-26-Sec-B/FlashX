@@ -32,6 +32,6 @@ Similarly, the scatter matrix displays the clustering results obtained by the k-
 This application demonstrates clustering analysis using two different algorithms: Gaussian Mixture Model (GMM) and k-Means. The silhouette scores provide a measure of how well-defined the clusters are. For real-world applications, consider using more comprehensive and current data, and tuning the parameters of the clustering algorithms for better results.
 
 ## Links:
-- [Streamlit App](https://teamflashx-clustering-with-em-algorithm-andk-means.streamlit.app/)
+- [Streamlit App](https://flashx7.streamlit.app/)
 - [Medium Article](https://medium.com/@suryanehru0401/title-unveiling-clustering-techniques-k-means-vs-expectation-maximization-em-algorithm-78b3b5b3b013)
 
