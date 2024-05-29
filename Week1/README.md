@@ -39,5 +39,5 @@ The script performs the following tasks:
 
 ## Links:
 
-- [Streamlit Demo](https://machine-learning-al3451-61-22-26-sec-b-flashx-week1main-uvgu9l.streamlit.app/)
+- [Streamlit Demo](https://flashx123.streamlit.app/)
 - [Medium Article](https://medium.com/@suryanehru0401/title-exploring-machine-learning-with-the-candidate-elimination-algorithm-3a22123ace86)
