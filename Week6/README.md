@@ -35,7 +35,7 @@ Variable Elimination is performed for inference. Users can select their symptoms
 To use the application, users can interact with the interface to select their symptoms and obtain the probability of having COVID-19.
 
 ## Links:
-- [Streamlit App](https://teamflashx-bayesiannetwork-covid.streamlit.app/)
+- [Streamlit App](https://flashx6.streamlit.app/)
 - [Medium Article](https://medium.com/@suryanehru0401/title-unraveling-covid-19-symptom-analysis-with-bayesian-networks-e5df31eb2943)
 
 
