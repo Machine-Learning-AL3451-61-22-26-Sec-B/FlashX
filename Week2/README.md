@@ -42,6 +42,6 @@ The uploaded dataset should be in CSV format, where each row represents an insta
 
 ## Links:
 
-- [Streamlit App](https://teamflashx-id3algorithm.streamlit.app/)
+- [Streamlit App](https://flashx1.streamlit.app/)
 - [Medium Article](https://medium.com/@suryanehru0401/title-exploring-diabetes-dataset-a-guide-to-decision-tree-classification-0fa508001821)
 
