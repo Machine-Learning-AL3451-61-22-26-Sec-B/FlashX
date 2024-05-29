@@ -46,5 +46,5 @@ Backpropagation is widely used in various applications including image recogniti
 
 ## Links:
 
-- [Streamlit App](https://teamflashx-backpropogationalgorithm.streamlit.app/)
+- [Streamlit App](https://flashx3.streamlit.app/)
 - [Medium Article](https://medium.com/@suryanehru0401/title-exploring-heart-disease-classification-with-neural-networks-73d63b599ff5)
