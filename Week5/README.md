@@ -37,5 +37,5 @@ Contributions are welcome! If you have suggestions or find any issues, feel free
 
 
 ## Links:
-- [Streamlit App](https://teamflashx-naivebayesclassifier.streamlit.app/)
+- [Streamlit App](https://flashx5.streamlit.app/)
 - [Medium Article](https://medium.com/@suryanehru0401/title-unveiling-sentiment-analysis-with-naive-bayes-classifier-23945aa7db80)
