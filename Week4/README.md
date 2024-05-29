@@ -64,5 +64,5 @@ To use the application, follow these steps:
 This Streamlit web application provides a user-friendly interface for credit card fraud detection, allowing users to analyze datasets, train machine learning models, and evaluate model performance.
 
 ## Links:
-- [Streamlit App](https://teamflashx-creditcardfraud.streamlit.app/)
+- [Streamlit App](https://flashx4.streamlit.app/)
 - [Medium Article](https://medium.com/@suryanehru0401/title-exploring-credit-card-fraud-detection-with-machine-learning-054038afa99a)
