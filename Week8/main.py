@@ -38,7 +38,7 @@ st.write('## Classification Report')
 st.write(classification_report(y_test, y_pred, target_names=load_iris().target_names))
 
 # Streamlit app
-st.title('k-Nearest Neighbors Classifier for Iris Dataset')
+st.title('k-Nearest Neighbors Classifier for Iris Dataset(Created by TEAM FLASH X)')
 
 st.write('## Dataset')
 st.write(df.head())
