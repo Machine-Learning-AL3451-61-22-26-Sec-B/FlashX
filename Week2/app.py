@@ -110,7 +110,7 @@ def preprocess_data(df):
     return df
 
 def main():
-    st.title("Decision Tree Classifier(Created by TEAM FLASH X")
+    st.title("Decision Tree Classifier(Created by TEAM FLASH X)")
 
     st.sidebar.header("Upload your dataset")
     uploaded_file = st.sidebar.file_uploader("Choose a CSV file", type="csv")
