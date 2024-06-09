@@ -35,7 +35,7 @@ gmm_silhouette = silhouette_score(X, gmm_labels)
 kmeans_silhouette = silhouette_score(X, kmeans_labels)
 
 # Streamlit app
-st.title('Clustering with EM Algorithm and k-Means')
+st.title('Clustering with EM Algorithm and k-Means(Created by TEAM FLASH X)')
 
 st.write('## Dataset')
 st.write(df.head())
