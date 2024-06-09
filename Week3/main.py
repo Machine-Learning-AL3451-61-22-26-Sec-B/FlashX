@@ -37,7 +37,7 @@ def neural_network(X, y, epoch=1000, eta=0.2):
     return output
 
 def main():
-    st.title("Neural Network Prediction")
+    st.title("Neural Network Prediction(Created by TEAM FLASH X)")
 
     st.sidebar.header("Settings")
     epoch = st.sidebar.number_input("Epochs", value=1000)
