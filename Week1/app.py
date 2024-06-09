@@ -28,7 +28,7 @@ def learn(concepts, target):
 
 # Create the main function for the Streamlit app
 def main():
-    st.title('Candidate Elimination Algorithm App')
+    st.title('Candidate Elimination Algorithm App(created by TEAM FLASH X)')
 
     # Upload a CSV file
     uploaded_file = st.file_uploader("Upload a CSV file", type=["csv"])
