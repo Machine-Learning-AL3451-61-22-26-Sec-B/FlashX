@@ -7,7 +7,7 @@ from pgmpy.estimators import MaximumLikelihoodEstimator
 from pgmpy.inference import VariableElimination
 
 # Title and introduction
-st.title("Bayesian Network for COVID-19 Symptom Classification(Created by TEAM FLASH X")
+st.title("Bayesian Network for COVID-19 Symptom Classification(Created by TEAM FLASH X)")
 st.write("This app uses a Bayesian Network to classify COVID-19 symptoms based on the provided dataset.")
 
 # Create a synthetic dataset
