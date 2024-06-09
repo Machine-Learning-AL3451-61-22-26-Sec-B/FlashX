@@ -38,7 +38,7 @@ def plot_lwr(tau):
     return plt
 
 # Streamlit app
-st.title("Local Weighted Regression Visualization")
+st.title("Local Weighted Regression Visualization(Created by TEAM FLASH X)")
 st.write("This app visualizes Local Weighted Regression on a sine function.")
 
 # Tau input
