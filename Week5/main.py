@@ -9,7 +9,7 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn import metrics
 
 # Title and introduction
-st.title("Naive Bayes Classifier for IMDb Review Classification")
+st.title("Naive Bayes Classifier for IMDb Review Classification(Created by TEAM FLASH X)")
 st.write("This app uses a Naive Bayes classifier to predict whether an IMDb review is positive or negative.")
 
 # URL for the dataset
