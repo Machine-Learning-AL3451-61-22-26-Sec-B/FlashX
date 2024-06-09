@@ -13,14 +13,14 @@ import missingno as mn
 import io
 
 # Set the page configuration
-st.set_page_config(page_title="Credit Card Fraud Detection(Created by TEAM FLASH X)", layout="wide")
+st.set_page_config(page_title="Credit Card Fraud Detection", layout="wide")
 
 # Sidebar for file upload and model selection
 st.sidebar.title("Upload and Configure")
 uploaded_file = st.sidebar.file_uploader("Choose a CSV file", type="csv")
 
 # Header for the main page
-st.title("Credit Card Fraud Detection")
+st.title("Credit Card Fraud Detection(Created by TEAM FLASH X)")
 
 if uploaded_file is not None:
     # Read the dataset
